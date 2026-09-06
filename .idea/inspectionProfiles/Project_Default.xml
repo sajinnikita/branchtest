@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="cffi" />
+          <option value="cryptography" />
+          <option value="google-auth" />
+          <option value="google-auth-oauthlib" />
+          <option value="Markdown" />
+          <option value="MarkupSafe" />
+          <option value="oauthlib" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pycparser" />
+          <option value="requests-oauthlib" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="tensorflow" />
+          <option value="tensorflow-estimator" />
+          <option value="tensorflow-intel" />
+          <option value="tensorflow-io-gcs-filesystem" />
+          <option value="Werkzeug" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
