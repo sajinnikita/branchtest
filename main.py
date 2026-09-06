@@ -6,3 +6,5 @@ def plus(a,b):
 a=int(input("enter first number"))
 b=int(input("enter second number"))
 plus(a,b)
+def multiply(a, b):
+    return a * b
